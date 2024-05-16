@@ -140,7 +140,6 @@ header {
                 display: flex;
                 position: absolute;
                 top: 90px;
-                /* center it exactly*/
                 right: -70%;
                 padding: 1rem;
                 z-index: 2;
